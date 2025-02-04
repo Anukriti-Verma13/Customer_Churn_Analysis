@@ -1,6 +1,9 @@
 ## Customer_Churn_Analysis
 Customer Churn Analysis, this project aims to analyze customer behavior and retention strategies using real-world data with the help of Power BI tool.
 
+## Preview
+![image](https://github.com/user-attachments/assets/2e8fc23e-5923-4f77-a1c8-a56cf8bf6d23)
+
 ## Problem Statement
 The purpose of this task is to:
 * Define proper KPI's
